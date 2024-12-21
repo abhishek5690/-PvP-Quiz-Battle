@@ -5,6 +5,8 @@ PvP Quiz Battle is a decentralized application (DApp) that allows two players to
 
 ## Contract Address
 0xFD35F4Fba689FcB0F9846d00492d8C4afeDd975F
+![image](https://github.com/user-attachments/assets/a7ef83c3-d76d-44d3-a772-e12cb97794ba)
+
 
 ## Project Vision
 The goal of PvP Quiz Battle is to bring competitive quiz gaming to the blockchain, ensuring transparency, fairness, and decentralized management. By leveraging smart contracts, players can trust that the game’s outcomes are immutable and verifiable.
